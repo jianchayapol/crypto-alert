@@ -1,6 +1,6 @@
-# crypto-alert!
+# crypto-alert! 
 
-Cryptocurrency Line Chatbot using
+🚀 Cryptocurrency Line Chatbot using
    - Line Notify
    - Coingecko API 
    - Google Cloud Function
