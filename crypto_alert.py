@@ -34,9 +34,9 @@ def crypto_alert(request):
     except Exception as e:
         err = "Error: {}".format(e)
         res={'status',err}
-        send_notify(err)
+        //send_notify(err)
         return (json.dumps(res),400)
 
-crypto_alert()
+//crypto_alert()
 
 
